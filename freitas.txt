@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 Motorvision TV Ao Vivo Online Grátis |
+https://stream.ads.ottera.tv/cl/240504cor8ns5qmpl0hhle8vjg/1920x1080_4787201_4_f.m3u8?i=475_758
+#EXTINF:-1 History Lab Ao Vivo Online 
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/chunklist_w1386406689.m3u8
+#EXTINF:-1 Moviesphere Brazil
+https://stream.ads.ottera.tv/cl/240504cor8raji4qar54rje59g/1920x1080_6046040_3_f.m3u8?i=728_6178
+#EXTINF:-1 Ülke TV Ao Vivo Online
+https://live-c.cf.dmcdn.net/sec2(7JSi6zlHU5UZSrH-FdGySD9sZE3E_ITG8aEIEi-Tp2zXPXI-20ihX9B8eATI4mFI5Etu541gDSNuW_JpWXR-OMDLGVM9cNE6Lfeoc9QmLUI)/dm/3/x7yb4xm/s/live-1.m3u8#cell=lcfc
+#EXTINF:-1 Love Nature Ao Vivo Online
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 Tigers Cam - San Diego Zoo 
+https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/chunklist.m3u8
+#EXTINF:-1 Polar Bears Cam
+https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/chunklist.m3u8
+#EXTINF:-1 Elephants - San Diego Zoo
+https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/chunklist.m3u8
+#EXTINF:-1 Penguins - San Diego Zoo
+https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8
+#EXTINF:-1 Ape Cam - San Diego Zoo 
+https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist.m3u8
+#EXTINF:-1 Koala Cam - San Diego Zoo
+https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/chunklist.m3u8
+#EXTINF:-1 Goiânia - Av. Jamel Cecílio Ao Vivo
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1272133895.m3u8
+#EXTINF:-1 Gramado Ao Vivo Online 
+https://inst-ujkau-srs-sd.camerite.services/s3/hls/59abcc30-f8cf-11e8-9c9f-e57dd102918e/59abcc30-f8cf-11e8-9c9f-e57dd102918e.m3u8?hls_ctx=703v6a1g
+#EXTINF:-1 Cascavel Panorâmica Ao Vivo
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+#EXTINF:-1 Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1063772849.m3u8
+#EXTINF:-1 CinePIX TV Ao Vivo
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w777450449.m3u8
+#EXTINF:-1 Tv Carioca Internacional 
+https://a.cdni.live/tvcarioca/tvcarioca/chunklist_w759779436.m3u8
+#EXTINF:-1 Classique Western
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1217360577.m3u8
+#EXTINF:-1 Grjngo Ao Vivo
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 1980 Channel Ao Vivo
+https://stmv1.srvif.com/channel80s/channel80s/chunklist_w1280228665.m3u8
+#EXTINF:-1 Cine Brasil Ao Vivo
+https://stmv1.srvif.com/cinebrasil/cinebrasil/chunklist_w1733121639.m3u8
+#EXTINF:-1 My Time Movie	
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 Cinevault 80's Ao Vivo
+https://csm-e-cetubiausw2live204-04428eff695edf756.csm.tubi.video/csm/live/494755003/4.m3u8;jsessionid=B921A88A1FFA29930D3A4B00D78ADCA4.csm-e-cetubiausw2live204-04428eff695edf756.csm.tubi.video?playback_start_ts=1714854435.546&externalId=CINEVAULT-Classics
+#EXTINF:-1 sic
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8	
+#EXTINF:-1 earthcam.com/usa/michigan/warren/falcon
+https://videos-3.earthcam.com/fecnetwork/10729.flv/chunklist_w848788731.m3u8?t=dMEHoK9MZNdyzkladH76mOy8XvRs6QgBwzBd38C4dt%2FRaU5vczNZd1cGcxQTFUke
+EXTINF:-1 EarthCam - New Orleans Cam
+https://videos-3.earthcam.com/fecnetwork/4280.flv/chunklist_w1843824274.m3u8?t=Z8SpBH92uYu3pHPoOMZ%2B9zmlj1I9el%2F0SgTs%2BxGjkmvAUqjrbHLhkvyz3F5%2B6Nyw
+EXTINF:-1 Câmera ao Vivo Copacabana » Rio de Janeiro 
+https://videos-3.earthcam.com/fecnetwork/6593.flv/chunklist_w669093481.m3u8?t=v81YHtRnSLjCYkjUlJVO62rT%2BFhYTirxrXIvZJ9Is7wllkFKYOmF69ZBXGhFh84o&cid=
+EXTINF:-1 matosinhos
+https://video-auth1.iol.pt/beachcam/matosinhos/chunks.m3u8?nimblesessionid=1012500299
+EXTINF:-1 direto de Santuário de Fátima
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714877353/ei/SZ82ZtSVGff6vdIPid2s8Ag/ip/2001:818:c40f:4700:b880:4bd:53d2:9b12/id/WkhCfPPgqWc.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-apn7en7s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/671250/mh/ue/mm/44/mn/sn-apn7en7s/ms/lva/mv/m/mvi/4/pl/45/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1714855470/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgOhH4a0IdcZlzTG-NIlIYCISI6RrjS6ganVcJqX9w3BwCIDgIZeH1I2o54aCRZ0EKrBkoVDa-QIPXqObCoW6jmhqV/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhANNex1d9pVThvPaGcnFXwYfHgK2iw0et1BjjNA2cOQ6_AiEA0-zZqwqm_vO9NfKpvus6domys-p1bQELTovzE99RdRo%3D/playlist/index.m3u8
+EXTINF:-1 brasil
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ecdgi8jeisbpaa2u4dppqq6ij3
+EXTINF:-1  Basílica do Santuário Nacional de Nossa Senhora Aperecida
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ecdgi8jeisbpaa2u4dppqq6ij3
+EXTINF:-1   Roma - Piazza
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ecdgi8jeisbpaa2u4dppqq6ij3
+EXTINF:-1 Fontana di Trevi - Roma 
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ecdgi8jeisbpaa2u4dppqq6ij3
+EXTINF:-1 Campo de' Fiori
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ecdgi8jeisbpaa2u4dppqq6ij3
+EXTINF:-1 animais
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ecdgi8jeisbpaa2u4dppqq6ij3
+EXTINF:-1  Albufeira:
+https://s31.ipcamlive.com/streams/1frratmp4w3b5e6fa/stream.m3u8
+EXTINF:-1  New Orleans Cam
+https://videos-3.earthcam.com/fecnetwork/4282.flv/chunklist_w857365352.m3u8?t=z96LKaYnWVQXaYYFAm8IpsH9JS%2BQlVEXBYPS02dZInEFk2FlPgZYIj4pP3LRl7nb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
